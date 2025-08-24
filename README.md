@@ -18,7 +18,6 @@ Decision Tree **classification** and **regression** are also included.
 | ![Linear RBF SVM](plots/linear_rbf_svm.png) | Linear SVM decision boundary for a dataset with partially nonlinear patterns. |
 | ![RBF SVM](plots/rbf_svm.png) | **RBF SVM** decision boundary capturing circular/nonlinear patterns. |
 | ![Decision Tree Classifier](plots/DT_classifier.png) | Visualized **Decision Tree** classifier for binary/multiclass dataset. Nodes show feature splits, gini, and class values. |
-  |
 
 ---
 
